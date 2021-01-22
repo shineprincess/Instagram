@@ -1,0 +1,14 @@
+.imageUpload {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    /* top right bottom left  */
+    margin: 10px auto 10px auto; 
+    /* auto -> the browser calculates the margin */
+    background-color: #73ecec;
+}
+
+.imageUpload_Progress {
+    width: 100%;
+}
+
